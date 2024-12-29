@@ -1,4 +1,4 @@
-package game2048logic;
+package game2048;
 
 import game2048rendering.Board;
 import game2048rendering.Side;

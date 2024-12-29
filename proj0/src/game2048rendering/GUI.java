@@ -1,6 +1,6 @@
 package game2048rendering;
 
-import game2048logic.Model;
+import game2048.Model;
 import ucb.gui2.TopLevel;
 import ucb.gui2.LayoutSpec;
 

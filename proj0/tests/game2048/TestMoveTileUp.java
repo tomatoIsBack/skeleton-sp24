@@ -1,4 +1,4 @@
-package game2048logic;
+package game2048;
 import jh61b.grader.GradedTest;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
